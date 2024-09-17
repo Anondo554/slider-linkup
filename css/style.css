@@ -17,41 +17,50 @@ ol {
 .container {
     width: 1320px;
     margin: 0 auto;
-}
-
-
-
+} 
 .overly {
     padding: 280px;
     background: rgba(0, 0, 0, 0.4);
-}
-
-.sliderOne, .two, .three, .four, .five, .six { 
+} 
+.sliderOne{
+    background: url(../images/01.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
 }
-.sliderOne{
-    background: url(../images/01.jpg);
-}
 .two {
     background: url(../images/02.jpg); 
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .three {
     background: url(../images/03.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
     
 }
 .four {
     background: url(../images/04.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
     
 }
 .five {
     background: url(../images/05.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
     
 }
 .six {
     background: url(../images/06.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
     
 }
 
