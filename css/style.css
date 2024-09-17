@@ -22,29 +22,37 @@ ol {
 
 
 .overly {
-    padding: 250px;
+    padding: 280px;
     background: rgba(0, 0, 0, 0.4);
 }
 
-.sliderOne {
-    background: url(../images/01.jpg);
+.sliderOne, .two, .three, .four, .five, .six { 
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
 }
-
+.sliderOne{
+    background: url(../images/01.jpg);
+}
 .two {
-    background: url(../images/02.jpg);
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
+    background: url(../images/02.jpg); 
 }
 
 .three {
     background: url(../images/03.jpg);
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
+    
+}
+.four {
+    background: url(../images/04.jpg);
+    
+}
+.five {
+    background: url(../images/05.jpg);
+    
+}
+.six {
+    background: url(../images/06.jpg);
+    
 }
 
 .prev {
